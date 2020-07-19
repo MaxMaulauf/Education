@@ -1,0 +1,7 @@
+C:\Users\hansk\source\repos\Verkettete Liste\Verkettete Liste\bin\Debug\Verkettete Liste.exe.config
+C:\Users\hansk\source\repos\Verkettete Liste\Verkettete Liste\bin\Debug\Verkettete Liste.exe
+C:\Users\hansk\source\repos\Verkettete Liste\Verkettete Liste\bin\Debug\Verkettete Liste.pdb
+C:\Users\hansk\source\repos\Verkettete Liste\Verkettete Liste\obj\Debug\Verkettete Liste.csprojAssemblyReference.cache
+C:\Users\hansk\source\repos\Verkettete Liste\Verkettete Liste\obj\Debug\Verkettete Liste.csproj.CoreCompileInputs.cache
+C:\Users\hansk\source\repos\Verkettete Liste\Verkettete Liste\obj\Debug\Verkettete Liste.exe
+C:\Users\hansk\source\repos\Verkettete Liste\Verkettete Liste\obj\Debug\Verkettete Liste.pdb

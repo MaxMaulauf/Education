@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verkettete Liste", "Verkettete Liste\Verkettete Liste.csproj", "{E1129AC5-9EDA-482B-9708-00B258C40677}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unsortierte Verkettete Liste", "Doppelt verkettete Liste\Unsortierte Verkettete Liste.csproj", "{D5A2436D-5194-4CBB-8FA3-F684753562E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generische Liste", "generische Liste\generische Liste.csproj", "{7F27EFBC-5F3F-4A1C-8362-F88AC7A3E02C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamischer Stack", "Dynamischer Stack\Dynamischer Stack.csproj", "{2BD939E2-0F4D-41C6-8233-02FE93A503C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generische Teilmenge", "generische Teilmenge\generische Teilmenge.csproj", "{3EE66910-6E73-4B63-8AE8-719AA8AFA71E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamische Datenstruktur", "Dynamische Datenstruktur\Dynamische Datenstruktur.csproj", "{118D992D-A1EF-43D5-8FE2-ECD4FC097896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verkettete Datenstrukturen und Delegates", "Verkettete Datenstrukturen und Delegates\Verkettete Datenstrukturen und Delegates.csproj", "{4B649AEF-A57C-4135-89C5-6941DDECE78D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1129AC5-9EDA-482B-9708-00B258C40677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1129AC5-9EDA-482B-9708-00B258C40677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1129AC5-9EDA-482B-9708-00B258C40677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1129AC5-9EDA-482B-9708-00B258C40677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A2436D-5194-4CBB-8FA3-F684753562E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A2436D-5194-4CBB-8FA3-F684753562E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A2436D-5194-4CBB-8FA3-F684753562E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A2436D-5194-4CBB-8FA3-F684753562E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F27EFBC-5F3F-4A1C-8362-F88AC7A3E02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F27EFBC-5F3F-4A1C-8362-F88AC7A3E02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F27EFBC-5F3F-4A1C-8362-F88AC7A3E02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F27EFBC-5F3F-4A1C-8362-F88AC7A3E02C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BD939E2-0F4D-41C6-8233-02FE93A503C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD939E2-0F4D-41C6-8233-02FE93A503C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD939E2-0F4D-41C6-8233-02FE93A503C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD939E2-0F4D-41C6-8233-02FE93A503C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EE66910-6E73-4B63-8AE8-719AA8AFA71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE66910-6E73-4B63-8AE8-719AA8AFA71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE66910-6E73-4B63-8AE8-719AA8AFA71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE66910-6E73-4B63-8AE8-719AA8AFA71E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{118D992D-A1EF-43D5-8FE2-ECD4FC097896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118D992D-A1EF-43D5-8FE2-ECD4FC097896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118D992D-A1EF-43D5-8FE2-ECD4FC097896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118D992D-A1EF-43D5-8FE2-ECD4FC097896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B649AEF-A57C-4135-89C5-6941DDECE78D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B649AEF-A57C-4135-89C5-6941DDECE78D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B649AEF-A57C-4135-89C5-6941DDECE78D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B649AEF-A57C-4135-89C5-6941DDECE78D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F6E7EF5-DF50-4384-980C-7D93C0B8CB8D}
+	EndGlobalSection
+EndGlobal

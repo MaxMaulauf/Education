@@ -1,0 +1,7 @@
+C:\Users\hansk\source\repos\Verkettete Liste\generische Liste\bin\Debug\generische Liste.exe.config
+C:\Users\hansk\source\repos\Verkettete Liste\generische Liste\bin\Debug\generische Liste.exe
+C:\Users\hansk\source\repos\Verkettete Liste\generische Liste\bin\Debug\generische Liste.pdb
+C:\Users\hansk\source\repos\Verkettete Liste\generische Liste\obj\Debug\generische Liste.csprojAssemblyReference.cache
+C:\Users\hansk\source\repos\Verkettete Liste\generische Liste\obj\Debug\generische Liste.csproj.CoreCompileInputs.cache
+C:\Users\hansk\source\repos\Verkettete Liste\generische Liste\obj\Debug\generische Liste.exe
+C:\Users\hansk\source\repos\Verkettete Liste\generische Liste\obj\Debug\generische Liste.pdb

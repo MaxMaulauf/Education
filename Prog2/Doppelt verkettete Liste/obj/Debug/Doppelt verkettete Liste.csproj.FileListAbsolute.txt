@@ -1,0 +1,7 @@
+C:\Users\hansk\source\repos\Verkettete Liste\Doppelt verkettete Liste\bin\Debug\Doppelt verkettete Liste.exe.config
+C:\Users\hansk\source\repos\Verkettete Liste\Doppelt verkettete Liste\bin\Debug\Doppelt verkettete Liste.exe
+C:\Users\hansk\source\repos\Verkettete Liste\Doppelt verkettete Liste\bin\Debug\Doppelt verkettete Liste.pdb
+C:\Users\hansk\source\repos\Verkettete Liste\Doppelt verkettete Liste\obj\Debug\Doppelt verkettete Liste.csprojAssemblyReference.cache
+C:\Users\hansk\source\repos\Verkettete Liste\Doppelt verkettete Liste\obj\Debug\Doppelt verkettete Liste.csproj.CoreCompileInputs.cache
+C:\Users\hansk\source\repos\Verkettete Liste\Doppelt verkettete Liste\obj\Debug\Doppelt verkettete Liste.exe
+C:\Users\hansk\source\repos\Verkettete Liste\Doppelt verkettete Liste\obj\Debug\Doppelt verkettete Liste.pdb

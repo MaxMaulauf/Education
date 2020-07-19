@@ -1,0 +1,7 @@
+C:\Users\hansk\source\repos\Verkettete Liste\generische Teilmenge\bin\Debug\generische Teilmenge.exe.config
+C:\Users\hansk\source\repos\Verkettete Liste\generische Teilmenge\bin\Debug\generische Teilmenge.exe
+C:\Users\hansk\source\repos\Verkettete Liste\generische Teilmenge\bin\Debug\generische Teilmenge.pdb
+C:\Users\hansk\source\repos\Verkettete Liste\generische Teilmenge\obj\Debug\generische Teilmenge.csprojAssemblyReference.cache
+C:\Users\hansk\source\repos\Verkettete Liste\generische Teilmenge\obj\Debug\generische Teilmenge.csproj.CoreCompileInputs.cache
+C:\Users\hansk\source\repos\Verkettete Liste\generische Teilmenge\obj\Debug\generische Teilmenge.exe
+C:\Users\hansk\source\repos\Verkettete Liste\generische Teilmenge\obj\Debug\generische Teilmenge.pdb

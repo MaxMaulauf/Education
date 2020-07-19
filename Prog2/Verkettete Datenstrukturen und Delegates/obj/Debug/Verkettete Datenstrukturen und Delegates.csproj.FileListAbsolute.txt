@@ -1,0 +1,7 @@
+C:\Users\hansk\source\repos\Verkettete Liste\Verkettete Datenstrukturen und Delegates\bin\Debug\Verkettete Datenstrukturen und Delegates.exe.config
+C:\Users\hansk\source\repos\Verkettete Liste\Verkettete Datenstrukturen und Delegates\bin\Debug\Verkettete Datenstrukturen und Delegates.exe
+C:\Users\hansk\source\repos\Verkettete Liste\Verkettete Datenstrukturen und Delegates\bin\Debug\Verkettete Datenstrukturen und Delegates.pdb
+C:\Users\hansk\source\repos\Verkettete Liste\Verkettete Datenstrukturen und Delegates\obj\Debug\Verkettete Datenstrukturen und Delegates.csprojAssemblyReference.cache
+C:\Users\hansk\source\repos\Verkettete Liste\Verkettete Datenstrukturen und Delegates\obj\Debug\Verkettete Datenstrukturen und Delegates.csproj.CoreCompileInputs.cache
+C:\Users\hansk\source\repos\Verkettete Liste\Verkettete Datenstrukturen und Delegates\obj\Debug\Verkettete Datenstrukturen und Delegates.exe
+C:\Users\hansk\source\repos\Verkettete Liste\Verkettete Datenstrukturen und Delegates\obj\Debug\Verkettete Datenstrukturen und Delegates.pdb
